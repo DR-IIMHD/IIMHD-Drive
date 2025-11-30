@@ -35,3 +35,4 @@ Das Projekt ist vollständig **theoretisch**, **offen**, und dient der wissensch
 ## 📁 Repository-Struktur
 
 **Empfohlene Ordner:**
+docs
