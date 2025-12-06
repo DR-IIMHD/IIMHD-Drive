@@ -1,6 +1,19 @@
+## 📌 Latest DOI (Version 2.0)
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17839580.svg)](https://doi.org/10.5281/zenodo.17839580)
+
+---
+
+## 📜 Previous Versions
+
+**Version 1.0 DOI:**  
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17772924.svg)](https://doi.org/10.5281/zenodo.17772924)
+
+---
+
 # IIMHD-Drive – Open Science Release  
 ### Ion-Injected MagnetoHydroDynamic Duct Drive  
+
 **Author:** Dominic Richter  
 **License:** CC BY 4.0
 
